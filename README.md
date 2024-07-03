@@ -27,30 +27,32 @@ Application for Bo Da Pagoda relic area includes functions of viewing news, list
   
 # UI APP.
 
-<img src="https://github.com/buithog/BoDaApp/assets/100995556/f0f1ee4d-0654-4b09-a5ed-c5ee1eaf0d42" alt="tên ảnh" width="5%">
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/f0f1ee4d-0654-4b09-a5ed-c5ee1eaf0d42" alt="tên ảnh" width="20%">
 
 UI Profile
 
-![giao diện danh sách bài viết](https://github.com/buithog/BoDaApp/assets/100995556/8176206d-c6bf-41c5-abba-38cc86bc9a56){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/8176206d-c6bf-41c5-abba-38cc86bc9a56" alt="tên ảnh" width="20%">
+
 
 UI list post
 
-![đăng ký](https://github.com/buithog/BoDaApp/assets/100995556/b7304cee-c47c-4260-b604-2cb51c63b6d5){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/b7304cee-c47c-4260-b604-2cb51c63b6d5" alt="tên ảnh" width="20%">
+
 
 UI sign up
 
-![tri tiết thuyết minh](https://github.com/buithog/BoDaApp/assets/100995556/696018fb-12bf-4299-9a69-e7342488af2d){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/696018fb-12bf-4299-9a69-e7342488af2d" alt="tên ảnh" width="20%">
 
 UI details voice
 
-![tri tiết bài viết](https://github.com/buithog/BoDaApp/assets/100995556/6ccccc03-e544-4a37-8115-b9776359ec28){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/6ccccc03-e544-4a37-8115-b9776359ec28" alt="tên ảnh" width="20%">
 
 UI details post
 
-![home](https://github.com/buithog/BoDaApp/assets/100995556/cb5a30b0-0703-4306-9589-6dfb58a65849){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/cb5a30b0-0703-4306-9589-6dfb58a65849" alt="tên ảnh" width="20%">
 
 UI Home
 
-![giao diện QR scan](https://github.com/buithog/BoDaApp/assets/100995556/a153fde7-69c7-4abe-8e34-1dea5ca3c74f){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/a153fde7-69c7-4abe-8e34-1dea5ca3c74f" alt="tên ảnh" width="20%">
 
 UI QR Scann.
