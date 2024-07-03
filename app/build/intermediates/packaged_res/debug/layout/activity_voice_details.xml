@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:id="@+id/btn_back"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/border_imageview"
+        android:drawableLeft="@drawable/baseline_arrow_back_24"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/voice_details_thumbnails"
+        android:src="@drawable/chuaboda16863"
+        android:background="@drawable/rounded_corner_background"/>
+
+
+    <TextView
+        android:id="@+id/voice_name"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:textSize="18sp"
+        android:text="Hòn Đá"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:paddingTop="30dp"
+        android:textStyle="bold"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:background="@drawable/rounded_corner_background"
+        >
+        <TextView
+            android:id="@+id/voice_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textAlignment="center"
+            android:paddingTop="16dp"
+            android:textStyle="italic"
+            />
+    </ScrollView>
+    <SeekBar
+        android:id="@+id/seek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/play_button"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:drawableLeft="@drawable/baseline_play_arrow_24"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+</LinearLayout>

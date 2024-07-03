@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_second.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/item_post.xml",
+        "source": "com.example.myapp-main-51:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_first.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_register.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_post.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_post.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_profile.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.myapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/item_voice.xml",
+        "source": "com.example.myapp-main-51:/layout/item_voice.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/content_article_details.xml",
+        "source": "com.example.myapp-main-51:/layout/content_article_details.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/activity_voice_details.xml",
+        "source": "com.example.myapp-main-51:/layout/activity_voice_details.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/nav_header.xml",
+        "source": "com.example.myapp-main-51:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/item_article.xml",
+        "source": "com.example.myapp-main-51:/layout/item_article.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/activity_article_details.xml",
+        "source": "com.example.myapp-main-51:/layout/activity_article_details.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_scan.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "com.example.myapp-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "com.example.myapp-main-51:/layout/fragment_login.xml"
+    }
+]
