@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home"
+    android:background="@color/white"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header -->
+        <include layout="@layout/nav_header" />
+
+        <!-- Search Bar -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:padding="16dp">
+
+            <!-- Dummy View to take up space on the left -->
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3"
+                />
+
+            <!-- Search EditText -->
+            <EditText
+                android:id="@+id/search_edit_text"
+                android:layout_width="100dp"
+                android:layout_height="35dp"
+                android:layout_weight="7"
+                android:hint="Search"
+                android:layout_marginStart="7dp"
+                android:background="@drawable/border_imageview"
+
+                />
+
+            <!-- Search Icon -->
+            <ImageView
+                android:id="@+id/search_icon"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="1dp"
+                android:backgroundTintMode="screen"
+                android:src="@drawable/baseline_search_24"
+                android:contentDescription="Search"
+                android:backgroundTint="@color/lavender"
+                android:background="@drawable/border_imageview"
+
+                />
+
+            <!-- Dummy View to take up space on the right -->
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="3" />
+
+        </LinearLayout>
+
+        <!-- RecyclerView -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:padding="16dp" />
+        <TextView
+            android:id="@+id/thuyet_minh_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thuyết minh"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp" />
+
+        <!-- Second RecyclerView -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/second_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="0dp"
+            android:padding="8dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
