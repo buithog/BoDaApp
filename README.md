@@ -12,6 +12,7 @@ Application for Bo Da Pagoda relic area includes functions of viewing news, list
 
 # Set up
   Go to file network_security_config.xml to config IP;
+
   
   ![image](https://github.com/buithog/BoDaApp/assets/100995556/66865ee4-0be7-4de7-82fa-627416c6d990)
   
@@ -26,8 +27,7 @@ Application for Bo Da Pagoda relic area includes functions of viewing news, list
   
 # UI APP.
 
-
-![giao diện profile](https://github.com/buithog/BoDaApp/assets/100995556/f0f1ee4d-0654-4b09-a5ed-c5ee1eaf0d42){width=3%}
+<img src="https://github.com/buithog/BoDaApp/assets/100995556/f0f1ee4d-0654-4b09-a5ed-c5ee1eaf0d42" alt="tên ảnh" width="5%">
 
 UI Profile
 
