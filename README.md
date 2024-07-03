@@ -5,8 +5,11 @@ Application for Bo Da Pagoda relic area includes functions of viewing news, list
 
 # Technology
  language : Java 17;
+ 
  IDE : Android studio;
+ 
  API 34;
+
 # Set up
   Go to file network_security_config.xml to config IP;
   
